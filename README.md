@@ -1,15 +1,25 @@
-# smart-contracts
 # Inheir8 – Smart Inheritance for Web3
 
-Inheir8 is a smart contract–based protocol that allows Web3 users to assign heirs to their crypto assets and ensure automatic transfer in case of death or loss of access.
+Inheir8 is a smart contract–based protocol that allows Ethereum users to assign heirs to their crypto assets and ensure secure, automatic asset transfer in the event of death or permanent loss of access.
 
-Create a Vault  
-Assign Heirs  
-Proof-of-Life Logic  
-Trustless Inheritance
+## Key Features
+- Create a Vault
+- Assign Heirs
+- Proof-of-Life Logic
+- Trustless Succession
+- Modular, auditable smart contract tooling
 
-[Join Waitlist](https://inheir8.com)
+This repository will house the smart contracts and core logic powering the Inheir8 protocol.
+
+> Learn more or join the waitlist: [inheir8.xyz](https://inheir8.xyz) *(or use your waitlist link)*
 
 ## Repo Index
-- [Whitepaper](./inheir8-whitepaper)
-- [Smart Contracts (Coming Soon)](./inheir8-smart-contracts)
+- [Whitepaper](https://github.com/inheir8/whitepaper)
+- Smart Contracts (in development)
+
+## Team
+- Jeremy Clifford – Founder & Project Lead
+- Keith Reinbold – Technical Lead
+
+## License
+MIT (or to be finalized)
