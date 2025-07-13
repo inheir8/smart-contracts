@@ -19,7 +19,7 @@ This repository will house the smart contracts and core logic powering the Inhei
 
 ## Team
 - Jeremy Clifford – Founder & Project Lead
-- Keith Reinbold – Technical Lead
+- Keith Reinbold – Co-Founder & Technical Lead
 
 ## License
 MIT (or to be finalized)
